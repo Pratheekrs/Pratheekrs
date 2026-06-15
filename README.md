@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratheekrs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratheek-r-s-a9b38b326)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratheekrs)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratheekrs03@gmail.com)
 
@@ -33,7 +33,7 @@ pratheek = {
 
 - 🔭 Currently building **real-world analytics dashboards**
 - 🌱 Learning **Python (Pandas, NumPy)** & **Advanced DAX**
-- 🎯 Target: **Data Analyst Internship + Campus Placement 2025**
+- 🎯 Target: **Data Analyst Internship + Campus Placement 2027**
 - ⚡ Fun fact: I turn messy data into clean stories 📊
 
 <br clear="right"/>
@@ -106,14 +106,6 @@ pratheek = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratheekrs&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pratheekrs&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
