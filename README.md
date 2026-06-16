@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=Pratheek%20R%20S&fontSize=55&fontColor=00ffcc&fontAlignY=45&desc=Turning%20Data%20into%20Insights%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=65&descSize=16&animation=twinkling&stroke=00ffcc&strokeWidth=2" width="100%"/>
+<img src="pratheek_github_banner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;B.E+CSE+%28Data+Science%29+%40+AIT+Bengaluru;Aspiring+Data+Analyst+%F0%9F%9A%80" alt="Typing SVG" />
 
