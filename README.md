@@ -124,6 +124,5 @@ pratheek = {
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=footer&stroke=00ffcc&strokeWidth=2" width="100%"/>
 
 </div>
