@@ -24,7 +24,7 @@ pratheek = {
     "degree"    : "B.E CSE (Data Science)",
     "college"   : "Acharya Institute of Technology, Bengaluru",
     "cgpa"      : "8.2 / 10",
-    "semester"  : "6th Sem → Graduating 2027",
+    "semester"  : "7th Sem → Graduating 2027",
     "role"      : "Aspiring Data Analyst",
     "focus"     : ["Power BI", "SQL", "Python", "Excel"],
     "status"    : "Open to Internships & Placements 🚀"
